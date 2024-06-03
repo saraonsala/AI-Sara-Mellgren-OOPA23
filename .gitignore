@@ -160,3 +160,9 @@ cython_debug/
 #.idea/
 .Default.csv
 *.csv
+*.jpg
+*.jpeg
+
+*.data
+# .gitignore
+Dogs_vs_Cats/
